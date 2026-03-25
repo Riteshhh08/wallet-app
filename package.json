@@ -1,0 +1,19 @@
+{
+  "name": "wallet-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "dev": "node --watch src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "sql.js": "^1.14.1",
+    "uuid": "^13.0.0"
+  },
+  "type": "commonjs"
+}
